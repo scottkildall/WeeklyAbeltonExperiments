@@ -12,6 +12,10 @@ I'm designing a set of weekly Ableton experiments to better learn tricks and tec
 
 There is so much here to learn, and while the program is easy to use, it is also complex.
 
+I pretty much only use Session View, for various reasons.
+
+Most of my Ableton Live Sessions use a mix channel, for recording wave files and MIDI.
+
 ### Documentation
 
 Inside each week folder, there is a specific ReadMe.md file for the different files in there. My documentation is a bit scattershot, so I'm doing my best! 
@@ -19,7 +23,7 @@ Inside each week folder, there is a specific ReadMe.md file for the different fi
 [GitHub repo link](https://github.com/scottkildall/WeeklyAbeltonExperiments)
 
 
-### Week 1: Drum racks
+### Week 1: Drum Racks
 
 Wow, these are sure powerful. At first, I thought it was simple beats, but what I've come to realize is that because Ableton is modular, you can add effects, instrument racks, chains, and all sort of goodies to it. Even with my week or so of learning, and following the tutorials, I feel like there is so much for me to learn.
 
