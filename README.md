@@ -30,9 +30,32 @@ Wow, these are sure powerful. At first, I thought it was simple beats, but what 
 The [MIDI Fighter Twister](https://store.djtechtools.com/products/midi-fighter-twister) is a fun tool, where you can map the buttons to each of the 16 default drum pads, and then the encoders can change the effects of specific parameters.
 
 
+### Week 2: Launchkey 37
+
+### Other possibles weeks
+
+
+Music Theory
+
+Sampler / Simpler
+
+Wave Tables
+
+FM Synthesis
+
+EQ
+
+Compressors
+
+Reading Music
 
 
 ### Useful Tools
 
 **Protokol**: free tool that lets you check out MIDI messages, [link here:](https://hexler.net/protokol) 
+
+### YouTube chanels
+
+[Histories of synths, etc
+](https://www.youtube.com/@soundfly)
 

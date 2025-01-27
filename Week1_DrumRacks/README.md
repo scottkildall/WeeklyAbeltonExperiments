@@ -8,9 +8,6 @@ The idea here is to explore the drum kits in Ableton and develop some templates 
 [History of the 808]()
 
 
-
-
-
 ## Online Tutorials
 
 [Building a starter drum kit](https://www.youtube.com/watch?v=oVeds9wvMcI
