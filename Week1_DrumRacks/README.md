@@ -36,6 +36,8 @@ https://www.youtube.com/watch?v=QhPMuOLZCSg)
 
 You can play these without controllers, but the one that I have been developing these from is the MIDI Fighter Twister, which has knobs that also function as switches 
 
+Also, you can use the quantization menu to trigger different settings, or you can do a local one. Main timeline also neeeds to be playing to do this.
+
 
 ## Useful things I learned
 
@@ -236,10 +238,6 @@ I still don't quite understand .adv and .adg files. I know they are presets and 
 
 ### More Links
 
-
-Drum Machine: just the samples themselves, with the effects
-
-How to play a bass-line
 
 
 Good rundown on the drum rack

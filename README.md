@@ -32,22 +32,43 @@ The [MIDI Fighter Twister](https://store.djtechtools.com/products/midi-fighter-t
 
 ### Week 2: Launchkey 37
 
+
+### Week 3: Simpler/Sampler
+
+https://www.ableton.com/en/blog/simpler-and-sampler-pro-tips-and-techniques-slynk/
+
+### Week 4: EQ
+
+(short week)
+
+
+
 ### Other possibles weeks
 
 
-Music Theory
+Compressors
 
-Sampler / Simpler
+Macro Mapping
+
+Music Theory
 
 Wave Tables
 
 FM Synthesis
 
-EQ
-
-Compressors
+Grooves
 
 Reading Music
+
+**Clips **
+
+Use a Follow Action
+Master - press button to launch all of them
+
+
+Use filter sweeps instead of sine waves for Purple Bacteria
+
+Look at Shamaic Portal project
 
 
 ### Useful Tools
@@ -58,4 +79,17 @@ Reading Music
 
 [Histories of synths, etc
 ](https://www.youtube.com/@soundfly)
+
+
+### Instrument Rack
+
+one instrument
+
+then various audio effects / MIDI effects
+
+various knobs in the instrument rack can be mapped to different filters
+
+Total Effects on a track
+Chains let you do parallel
+Series will do the effects
 
