@@ -23,6 +23,12 @@ Inside each week folder, there is a specific ReadMe.md file for the different fi
 [GitHub repo link](https://github.com/scottkildall/WeeklyAbeltonExperiments)
 
 
+### Helpful YouTube Channels
+
+[Sound Training College](https://www.youtube.com/@soundtrainingcollege)
+
+
+
 ### Week 1: Drum Racks
 
 Wow, these are sure powerful. At first, I thought it was simple beats, but what I've come to realize is that because Ableton is modular, you can add effects, instrument racks, chains, and all sort of goodies to it. Even with my week or so of learning, and following the tutorials, I feel like there is so much for me to learn.

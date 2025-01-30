@@ -39,7 +39,47 @@ I just noticed the Device View Toggle in Ableton, so you can see the synth notes
 You can map to a drum kit, but seems like all the hardware controls don't really work so well that way
 
 
-## Next to do
+## Pitch Transposing on samples
+
+The Spectrum audio effect is a nice little tool that shows the spectrum of sounds as they are being played. [Guide here at 2:12](https://www.youtube.com/watch?v=kc1UauhrQGQ) 
+
+The [fundamental frequency](https://en.wikipedia.org/wiki/Fundamental_frequency) is the lowest freqeuncy of a waveform and defines the pitch of the note. The first large peak.
+
+You can use the cursor on the spectrum view to see the note that is being played.
+
+You can then use the Transpose knob on the Instrument Rack, or the Simpler to shift to the correct note.
+
+It's extra useful to have the keyboard here at this point.
+
+[MIDI note chart here](https://inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies)
+
+See LaunchKey_TwoTracks with Granultor sample to check this out
+
+## Online Tutorials
+
+[Getting started](https://www.youtube.com/watch?v=hkDtZLcuNLU
+)
+
+This is a fun tutorial, using the Viral Hop Hop LK project, included in the repo, downloadable from the site.
+
+The 8x2 bank of pads in Stop mode can let you play/stop certain clips. Have fun navigating through this!
+
+[Making Music with LaunchKey
+](https://www.youtube.com/watch?v=d0Yrnrm8wcw)
+
+[Arranging a track in LaunchKey](https://www.youtube.com/watch?v=AV9zscMDCck)
+
+[Recording drums using Drum pad mode in Ableton Live
+](https://youtu.be/oZjha_1c2os?list=PLPSFGKR8ZU4eDNdc0oeYMXdnKyNlG5L3Q
+)
+
+Less useful, but including it anyhow
+
+[LaunchKey Demo
+](https://www.youtube.com/watch?v=9FmL6Tj8yVw)
+
+
+
 
 ## Concepts
 
@@ -53,21 +93,7 @@ You can map to a drum kit, but seems like all the hardware controls don't really
 **Mapping** ou can set up a map for effects racks, kind of like MIDI maps
 
 
-## Online Tutorials
 
-[Getting started](https://www.youtube.com/watch?v=hkDtZLcuNLU
-)
-
-[Arranging a track in LaunchKey](https://www.youtube.com/watch?v=AV9zscMDCck)
-
-[Recording drums using Drum pad mode in Ableton Live
-](https://youtu.be/oZjha_1c2os?list=PLPSFGKR8ZU4eDNdc0oeYMXdnKyNlG5L3Q
-)
-
-[LaunchKey Demo
-](https://www.youtube.com/watch?v=9FmL6Tj8yVw)
-
-[Project File Demo](https://www.youtube.com/watch?v=d0Yrnrm8wcw)
 
 ## Hardware Controls
 
@@ -190,11 +216,9 @@ Monitor needs to be set to **Auto** for playback to actually work.
 
 ## Questions
 
-How does Sequencer Mode work?
 
 How to mod pitch, is there a built-in analyser
 
-There's a way to turn the pads into a drum kit, but I don't know how to do this
 
 There are a a whole lot of custom modes, check out 12:00 [in this video](https://www.youtube.com/watch?v=hkDtZLcuNLU), probably more than I can get into at this point
 
