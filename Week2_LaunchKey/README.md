@@ -41,6 +41,8 @@ You can map to a drum kit, but seems like all the hardware controls don't really
 
 ## Pitch Transposing on samples
 
+### One Way: Spectrum Audio Effect
+
 The Spectrum audio effect is a nice little tool that shows the spectrum of sounds as they are being played. [Guide here at 2:12](https://www.youtube.com/watch?v=kc1UauhrQGQ) 
 
 The [fundamental frequency](https://en.wikipedia.org/wiki/Fundamental_frequency) is the lowest freqeuncy of a waveform and defines the pitch of the note. The first large peak.
@@ -54,6 +56,11 @@ It's extra useful to have the keyboard here at this point.
 [MIDI note chart here](https://inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies)
 
 See LaunchKey_TwoTracks with Granultor sample to check this out
+
+
+### Perhaps a better way: The Tuner
+
+Another way is to simply use **the Tuner** I actually stumbled up on this after the video above. This can do it more quickly.
 
 ## Online Tutorials
 
@@ -208,19 +215,15 @@ Does both, so you can play in regular mode or shift to drum pad mode. Can do bot
 
 Arm tracks for recording (I already knew this)
 
-
 Monitor needs to be set to **Auto** for playback to actually work.
 
-
-## Nice Features
+Using the Viral Hip Hop LK template, provided in the video, I can do a fun clip mode mix and just press the pads.
 
 ## Questions
 
 
-How to mod pitch, is there a built-in analyser
-
-
 There are a a whole lot of custom modes, check out 12:00 [in this video](https://www.youtube.com/watch?v=hkDtZLcuNLU), probably more than I can get into at this point
 
+Mostly it's applying the knowledge and practicing. Playing with templates like the [Shamaic Portals](https://www.florasynth.space/shamanic-portals) could be really fun. This would let me play with the clips live, maybe mod the parameters of the synths aloing the way.
 
 
