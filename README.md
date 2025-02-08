@@ -23,9 +23,12 @@ Inside each week folder, there is a specific ReadMe.md file for the different fi
 [GitHub repo link](https://github.com/scottkildall/WeeklyAbeltonExperiments)
 
 
-### Helpful YouTube Channels
+### Helpful YouTube Channels or other online tutorials
 
 [Sound Training College](https://www.youtube.com/@soundtrainingcollege)
+
+
+https://learningsynths.ableton.com/
 
 
 
@@ -52,7 +55,7 @@ https://www.ableton.com/en/blog/simpler-and-sampler-pro-tips-and-techniques-slyn
 ### Other possibles weeks
 
 
-Compressors
+Simpler
 
 Macro Mapping
 
