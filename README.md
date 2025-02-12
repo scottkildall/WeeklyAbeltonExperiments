@@ -41,21 +41,16 @@ The [MIDI Fighter Twister](https://store.djtechtools.com/products/midi-fighter-t
 
 ### Week 2: Launchkey 37
 
+### Week 3: EQ and Compression
 
-### Week 3: Simpler/Sampler
 
-https://www.ableton.com/en/blog/simpler-and-sampler-pro-tips-and-techniques-slynk/
-
-### Week 4: EQ
-
-(short week)
+### Week 4: Simpler/Sampler
 
 
 
 ### Other possibles weeks
 
 
-Simpler
 
 Macro Mapping
 
