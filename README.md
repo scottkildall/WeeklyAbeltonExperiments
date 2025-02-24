@@ -46,6 +46,8 @@ The [MIDI Fighter Twister](https://store.djtechtools.com/products/midi-fighter-t
 
 ### Week 4: Simpler/Sampler
 
+### Week 5: Wave Tables
+
 
 
 ### Other possibles weeks
