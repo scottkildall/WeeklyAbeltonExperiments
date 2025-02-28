@@ -48,21 +48,19 @@ The [MIDI Fighter Twister](https://store.djtechtools.com/products/midi-fighter-t
 
 ### Week 5: Wave Tables
 
+### Week 6: Delays, Echo Reverb
+
+### Week 7: Oscillator
 
 
 ### Other possibles weeks
 
+Scale
 
+Return tracks
 
 Macro Mapping
 
-Music Theory
-
-Wave Tables
-
-FM Synthesis
-
-Grooves
 
 Reading Music
 
