@@ -50,7 +50,9 @@ The [MIDI Fighter Twister](https://store.djtechtools.com/products/midi-fighter-t
 
 ### Week 6: Delays, Echo Reverb
 
-### Week 7: Oscillator
+### Week 7: Operator
+
+### Week 8: ADCs?
 
 
 ### Other possibles weeks

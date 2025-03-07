@@ -1,4 +1,4 @@
-# Week6_EchoDelayReverb
+# Week7_Operator
 
 
 
@@ -7,120 +7,117 @@
 
 
 
-Difference between the two
+A synth like WaveTable that seems incredibly useful
 
-Technically the same. Echo is more of a casual term that refers to a delay that has some character, like old tape echoes, or bucket brigade pedals.
+Concept of Audible Oscillators and Inaudible Oscillators — ones that you can and you cannot hear.
 
-Delay is anything that introduces a delay into the signal, like Ableton has a track delay where you can delay the sound by whatever amount of time you enter. Delay can also involve repeating the signal too.
+You basically have 4 oscillators.
 
+FM Modulation is what Operator is based on. This produces additional frequencies or sidebands. And ALSO uses subtractive synthesis.
+
+Think about these operators like wires.
 
 ### Tutorials
 
-#### Echo Effect
+shorter
 
-[https://www.youtube.com/watch?v=CXGuwipqoqU
-]()
+[https://www.youtube.com/watchapp=desktop&v=Gn0JEtOdmb8&t=309s](https://www.youtube.com/watch?app=desktop&v=Gn0JEtOdmb8&t=309s)
 
-#### Delay
-
-Basics
-
-[https://www.youtube.com/watch?v=o1ETYMXCBhE
-]()
-Tips and Tricks
+longer
 
 
-[https://www.youtube.com/watch?v=RLKspUOFrgs
-](https://www.youtube.com/watch?v=RLKspUOFrgs)
+[
+https://www.youtube.com/watch?v=rXrRdaRrvjU](https://www.youtube.com/watch?v=rXrRdaRrvjU)
 
-### Echo Effect
+### Basics
 
-#### Controls
+Operator has four oscillators (also called operators).
+ 
+### Understanding the Algorithm
 
-**Delay Time** In beats, you can unlink them
+You have different algorithms for how the Oscillator works — the algorithm defines the connection between the oscillators.
 
-**Can do sync or time** 
+The Audible Oscillators are the ones that at the bottom of the algorithm chain.
 
-**Notes/Dotted/Triple/etc**, small teakers on timing
+The Inaudible Oscillators are the ones that modify the audible. For example, in the leftmost chain, D-C-B-A
 
-**Delay Offset** small adjustments
+### Envelopes
 
-**Input Knob** how much gets sent to delay unit, this is pretty critical.
+Each Oscillator has an envelope. The ADSR isn't seeming too active to me.
 
-**D** button, this applies analog drive to it, especially if you push the input, will add some grit to it
+Time < Vel and Velocity settings get into the weeds a bit.
 
-**Polarity** Button, can have a small effect, worth experimenting with
-
-**Feedback** how long to delay before zero
-
-**Dry/Wet** pretty self-explanatory, more wet = more echo-y
-
-**Filter** useful for filtering out the delayed signal, low or highpass, etc
-
-**Reverb** is it applied after or before the signal? Feedback will keep delaying the feedback
-
-**Stereo** Stereo Width of the delayed signal, 0% is mono. I don't 100% get this.
-
-**Stereo/Ping Ping/Mid Size** These are all ways to change panning in your ears.
-
-##### Modulation Tab
-
-Has ways to modulate the signal, can go into the rabbit hole here
-
-Env/Mix is best just to experiment with
-
-##### Character Tab
-
-Threshold will control what gets delayed
-Ducking related to dry/wet settings, good for letting in vocals, etc.
-
-Wobble morphs the pitch very slightly, kind of fun to play with.
+Key is keyboard-tracking, recommendation is to use it for the modulating oscillator, from the sad german guy
 
 
-### Delay
+### Detuning
 
-The 1/2/3/4 selections are divisions of 16ths, ie 1/16, 2/16 (1/8)
+Coarse and Fine will let you detune the pitch from each oscillator, as ratios.
 
-You can also go to ms, like with echo
+The fine can be subtle and we could add LFOs to it.
 
-Shorter ones feel more pronounced
+### Oscillator itself
 
-Left/Right channel can be linked/unlinked, like the Echo effect.
+You can make your own drawings. Also left-click to choose even or odd harmonics. Even supposedly sounds a bit better.
 
-Offset (%) will work with pan, a "wide" spread. Works best with Sync mode, there is a workaround to achieve this.
+Can choose different numbers on the harmonics
 
-Feedback will give you more repetitions of the synth.
+Phase is just the starting point on the oscilator wave. Maybe could be useful with an LFO
 
-Dry/Wet is pretty straightforward, can use this to affect the repetitions.
+R will be the retrigger, where the oscillator starts, probably good to have this on in most every case.
 
-Freeze will cause endless repetitions, this will freeze the feedback altogether. This could be a performance trick!
+Osc < Vel makes the oscillator to response to different velocities of notes.
 
-Filter is a simple bandpass, this can be used to filter the repetitions.
+Q = quantize, usually keep it on
 
-Filters whatever sound the delay generates, not the original sound.
+Feedback, will use itself as a modulation
 
-Can also turn off the filter entirely.
+Loop:Beat and Sync will issues stacatto notes
+Trigger mode will bypass the sustain
+
+### Global settings on the right
+
+#### LFO and Filter
+
+You can apply these to any number of operators.
+
+The LFO doesn't seem to do what I want it to.
+
+The tutorial does one thing and my experiments do something else.
+
+#### Pitch Envelope Shell
+
+Is a bit confusing, but you can apply pitch envelopes to any number of 
+
+### Live Sets
+
+#### Operator_Template
+
+A simple one with a nice sound
+
+#### Operator_Fine
+
+LFO use with the Fine control.
+
+#### Operator_PitchEnvelope
+
+Applies pitch envelope shell to one of the operators.
 
 
-Start at: 12:20 (modulation) on this video:
+### Workflow
 
-https://www.youtube.com/watch?v=o1ETYMXCBhE
+There are a lot of pre-built Operators out there. I think I'll just make use what's out there and modify them slightly for harmonics, rather than building them from scratch.
 
+Probably will work with the keyboard for figuring out an Operator sound design
 
-### LiveSets
+### Tips
 
-**EchoComplex**
+Work with sine waves at first
+Could work with your own sound libraries — custom operators, etc.
 
-Shows a MIDI Live Set with various echo effects, not especially organized
+### Questions
 
-**DelaySimple**
-
-Uses a theremin instrument with simple delay
-
-**DelayBass**
-
-Uses bass instrument with simple delay
-
+Well, as with a lot of synthesis, this gets quite techy.
 
 
 
