@@ -52,19 +52,24 @@ The [MIDI Fighter Twister](https://store.djtechtools.com/products/midi-fighter-t
 
 ### Week 7: Operator
 
-### Week 8: ADCs?
+### Week 8: Presets and Workflows
+
+### Week 9: Chaining
+
+### Week 10: Macro Variations
 
 
-### Other possibles weeks
+### Week 11: Odds and Ends
 
-Scale
+Amp instrument
 
-Return tracks
+https://www.ableton.com/en/manual/managing-files-and-sets/
 
-Macro Mapping
+MIDI Clips, what are they?
 
+A/B + Sends
 
-Reading Music
+Mixdowns
 
 **Clips **
 
